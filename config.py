@@ -1,6 +1,6 @@
 class Configuration:
-    TOKEN = '1656055762:AAGDZBDH4Z1r29fwUm_sbzLCSY58CAthBig'
-    DB_NAME = 'rates.db'
+    TOKEN = ''
+    DB_NAME = ''
     API = 'https://api.exchangeratesapi.io/'
     HELP_MESSAGE = 'What can this bot do?\n\n' \
                    'You can explore rates of  currency, exchange currency and get a graph of Week-rate changes!\n\n' \
