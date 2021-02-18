@@ -1,0 +1,4 @@
+requests~=2.25.1
+matplotlib~=3.3.3
+asyncio~=3.4.3
+aiogram~=2.11.2
